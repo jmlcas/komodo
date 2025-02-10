@@ -6,4 +6,4 @@ Usuario: admin
 
 Password: el que quieras
 
-Sign-up
+Sign-Up

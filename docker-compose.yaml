@@ -1,3 +1,7 @@
+## This compose file will deploy:
+##   1. MongoDB
+##   2. Komodo Core
+##   3. Komodo Periphery
 services:
   mongo:
     image: mongo
